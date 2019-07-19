@@ -8,4 +8,9 @@ export default {
     background: 'white',
     primary: '#083575',
   },
+  styles: {
+    img: {
+      maxHeight: '80vh',
+    },
+  }
 };
