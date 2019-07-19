@@ -12,5 +12,8 @@ export default {
     img: {
       maxHeight: '80vh',
     },
+    ol: {
+      fontSize: '24px',
+    }
   }
 };
