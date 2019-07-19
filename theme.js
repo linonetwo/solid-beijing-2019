@@ -14,6 +14,9 @@ export default {
     },
     ol: {
       fontSize: '24px',
+    },
+    li: {
+      fontSize: '18px',
     }
   }
 };
