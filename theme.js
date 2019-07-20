@@ -13,7 +13,7 @@ export default {
       maxHeight: '80vh',
     },
     ol: {
-      fontSize: '24px',
+      fontSize: '28px',
     },
     li: {
       fontSize: '18px',
